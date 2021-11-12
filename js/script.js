@@ -54,3 +54,7 @@ $(function(){
 
 
 });
+
+document.getElementById("DAZN").addEventListener("click", function () {
+    location.replace("https://www.dazn.com/ja-JP/home");
+  }, false);

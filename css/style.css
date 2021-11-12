@@ -127,3 +127,13 @@ header {
   margin: 0 calc(50% - 50vw);
 	width: 100vw;
 }
+
+#DAZN {
+  border: 1px solid #999;
+  width: 140px;
+  text-align: center;
+  padding: 10px;
+  color: #666;
+  background-color: #eee;
+  cursor: pointer;
+}
